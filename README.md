@@ -4,6 +4,9 @@ Here are all the documents barcamp events follow in accordance with.
 ## Code of Conduct
 Visit [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
+## Reporting
+Visit [REPORTING.md](REPORTING.md)
+
 ## Privacy Policy
 Visit [PRIVACY_POLICY.md](PRIVACY_POLICY.md)
 
