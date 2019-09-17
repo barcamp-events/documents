@@ -9,10 +9,10 @@ A few exciting things have happened since our last update - BarCamp Omaha 2019's
 
 The theme for 2019 is friendship - because without our friends in our community, BarCamp Omaha may not have come back.
 
-![BarCamp Omaha Art Direction Option One](./september_assets/barcampomaha_1.png)
-![BarCamp Omaha Art Direction Option Two](./september_assets/barcampomaha_2.png)
-![BarCamp Omaha Art Direction Option Three](./september_assets/barcampomaha_3.png)
-![BarCamp Omaha Art Direction Option Four](./september_assets/barcampomaha_4.png)
+![BarCamp Omaha Art Direction Option One](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_1.png)
+![BarCamp Omaha Art Direction Option Two](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_2.png)
+![BarCamp Omaha Art Direction Option Three](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_3.png)
+![BarCamp Omaha Art Direction Option Four](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_4.png)
 
 Thanks to Bergman Incentives, a Gold Sponsor, we're going to have some colorful friendship bracelets for all attendees (or until we run out - then I'll make yours myself!)
 
@@ -20,7 +20,7 @@ I sent the check for Kaneko this morning! WHEW! I also sent about half of my pla
 
 Speaking of ticket sales, we've sold 25 tickets since our last update!
 
-![Ticket Sales](./september_assets/ticketsales.png)
+![Ticket Sales](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/ticketsales.png)
 
 I'm staying late today to prep a site for 2019. I want to have the design ready by this weekend, that would be pretty awesome.
 
@@ -42,17 +42,17 @@ I'm going to reiterate this until everybody knows: BarCamp Events is the tent-po
 #### Design
 BarCamp Events finally has a settled design language, which might only make minor shifts as everything is settling in. Check it out! The wavelengths behind are a quick and dirty representation of the sound of multiple talks given at onces - definitely a very barcamp day-of type vibe! It's not perfect, but it's what it needs to be, so that's great.
 
-![BarCamp Events Art Identity](./september_assets/barcamp_events.png)
+![BarCamp Events Art Identity](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events.png)
 
 
 #### App Progress
 I'm working on the app a bit or a lot every day. You can check out the progress by going here: https://beta.barcamp.events. This app will be usable before BarCamp Omaha, and it's here that we'll put together the schedule for the day of the event. I'll be sending out invites to folks at least a couple weeks before November 9th. It's already quite feature filled - you can sign up, in, out, create events, add/remove sponsors, tracks, and talks to/from events. I would say, conservatively, it's about 20% done and I'll have people run through using it when it's at about 50% or so. The parts that are missing are the entire "hosting" experience, and the scheduler itself.
 
-![BarCamp Events Home](./september_assets/barcamp_events_home.png)
-![BarCamp Events Marketing Page](./september_assets/barcamp_events_marketing.png)
-![BarCamp Events Sign in Page](./september_assets/barcamp_events_auth.png)
-![BarCamp Events Profile](./september_assets/barcamp_events_profile.png)
-![BarCamp Events Events Near You](./september_assets/barcamp_events_near_you.png)
+![BarCamp Events Home](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events_home.png)
+![BarCamp Events Marketing Page](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events_marketing.png)
+![BarCamp Events Sign in Page](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events_auth.png)
+![BarCamp Events Profile](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events_profile.png)
+![BarCamp Events Events Near You](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcamp_events_near_you.png)
 
 #### 501(c)(3)
 This is on my agenda this month, I've done some preliminary work and I want to get this by the end of the year for BarCamp Events. There's not much else to share, but I wouldn't be doing my job if I didn't share this progress. Hopefully I will have more progress on this front in our next update.
@@ -90,15 +90,15 @@ In no particular order:
 # Thank you's
 This month found us with quite a few new sponsors! A massive 🙏 thank you 🙏 to our second round of sponsors:
 
-![Nebraska JS and NEJS Conf](./september_assets/nebraskajs.png)
+![Nebraska JS and NEJS Conf](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/nebraskajs.png)
 
 First, a HUGE thank you to NEJS Conf, NebraskaJS, and the organizers for donating well past the platinum tier last night! I'm going to catch up with them shortly and see what I can do to help. NebraskaJS and specifically the late NEJS Conf have been some of the kindest and most truely awesome groups of people Nebraska has had the opportunity to have in it's fine state. Please give them all the love you can - I know I will!
 
-![Flywheel](./september_assets/flywheel.jpg)
+![Flywheel](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/flywheel.jpg)
 
 Flywheel is our first Platinum sponsor is sponsoring the Diversity and Inclusion efforts for BarCamp Omaha! This includes technology to help make the event accessible, gender pronoun stickers, folks helping to manage the incident phone line, post-event translation of recorded talks, and a D&I ticket bucket of 10 tickets to BarCamp Omaha for our community. More to share on that soon! A groovy thank you to Flywheel!
 
-![Bergman](./september_assets/bergman.png)
+![Bergman](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/bergman.png)
 
 Bergman Incentives are our first Gold Sponsor, and they've donated the friendship bracelets as well as an additonal $250 that helped me send the check to Kaneko. I'm so grateful that Bergman is helping put on this new phase of BarCamp - Please give Mike Battershell and Bergman a huge thank you!
 
