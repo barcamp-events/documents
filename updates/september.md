@@ -55,15 +55,15 @@ This is on my agenda this month, I've done some preliminary work and I want to g
 
 
 # What you expected between August and September
-- [ ] Half done! We'll kick off sponsorship emails over the next week.
-- [ ] Done! By the end of August, we'll have design and...
-- [ ] Not done! a site at barcampomaha.org, at least by mid-september.
-- [ ] Done!!! We'll pay off the Kaneko expense!
-- [ ] Done!! send me an email if you would like to volunteer We'll send out a volunteer form!
-- [ ] Half done! We'll send our sponsors their free tickets!
-- [ ] Design is done, and the app is coming along well! I might have design for the BarCamp Events site and app completed by mid september, just in time for our next open collective update!
-- [ ] Lots done here, lots more to do! More messaging and organization.
-- [ ] Done! Accessible here (https://github.com/barcamp-events/documents) We'll have a CoC, published and available by mid-september.
+- [x] __Done!__ We'll kick off sponsorship emails over the next week.
+- [x] __Done!__ By the end of August, we'll have design and...
+- [ ] __Not done!__ a site at barcampomaha.org, at least by mid-september.
+- [x] __Check in the mail!!__ We'll pay off the Kaneko expense!
+- [x] __Done!!__ send me an email if you would like to volunteer We'll send out a volunteer form!
+- [x] __Half done, but never ending!__ We'll send our sponsors their free tickets!
+- [x] __Design is done, and the app is coming along well!__ I might have design for the BarCamp Events site and app completed by mid september, just in time for our next open collective update!
+- [x] __Lots done here, lots more to do!__ More messaging and organization.
+- [x] __Done!__ Accessible here (https://github.com/barcamp-events/documents) We'll have a CoC, published and available by mid-september.
 
 
 # What to expect for September/October
