@@ -11,7 +11,6 @@ The theme for 2019 is friendship - because without our friends in our community,
 
 ![BarCamp Omaha Art Direction Option One](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_1.png)
 ![BarCamp Omaha Art Direction Option Two](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_2.png)
-![BarCamp Omaha Art Direction Option Three](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_3.png)
 ![BarCamp Omaha Art Direction Option Four](https://raw.githubusercontent.com/barcamp-events/documents/master/updates/september_assets/barcampomaha_4.png)
 
 Thanks to Bergman Incentives, a Gold Sponsor, we're going to have some colorful friendship bracelets for all attendees (or until we run out - then I'll make yours myself!)
