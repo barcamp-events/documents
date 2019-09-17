@@ -48,7 +48,7 @@ I'm working on the app a bit or a lot every day. You can check out the progress 
 ![BarCamp Events Marketing Page](./september_assets/barcamp_events_marketing.png)
 ![BarCamp Events Sign in Page](./september_assets/barcamp_events_auth.png)
 ![BarCamp Events Profile](./september_assets/barcamp_events_profile.png)
-![BarCamp Events Events Near You](./september_assets/barcamp_events_events_near_you.png)
+![BarCamp Events Events Near You](./september_assets/barcamp_events_near_you.png)
 
 #### 501(c)(3)
 This is on my agenda this month, I've done some preliminary work and I want to get this by the end of the year for BarCamp Events. There's not much else to share, but I wouldn't be doing my job if I didn't share this progress. Hopefully I will have more progress on this front in our next update.
